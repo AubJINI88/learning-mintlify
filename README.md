@@ -1,7 +1,7 @@
-# awesome-mintlify
+# learning-mintlify
 
-> A curated list of things related to Mintlify, inspired by [awesome.re](http://awesome.re/) <br/>
-> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
+> A curated list of things related to Mintlify, inspired by [learning.re](http://learning.re/) <br/>
+> Want to contribute? learning! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## Table of Contents
 
@@ -58,12 +58,12 @@
 
 - [Fidelity uses Mintlify to elevate financial documentation](https://go.mintlify.com/customers/fidelity-investment)
 
-[↑ Back to Top](#awesome-mintlify)
+[↑ Back to Top](#learning-mintlify)
 
 ## Community Showcase
 
 > Docs powered by Mintlify — [Join the community!](https://mintlify.com/community) <br/>
-> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
+> Want to contribute? learning! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 - [Dripos](https://support.dripos.com/)
 - [Edgee](https://docs.edgee.cloud/)
@@ -74,7 +74,7 @@
 - [QA.tech](https://docs.qa.tech/)
 - [Storia Sage](https://sage-docs.storia.ai)
 
-[↑ Back to Top](#awesome-mintlify)
+[↑ Back to Top](#learning-mintlify)
 
 ## Talks
 
@@ -82,15 +82,15 @@
 - [Beautiful docs with Han](https://www.youtube.com/watch?v=vGPpaTpTOdA) on [The Highlight Podcast](https://www.youtube.com/@highlight-io/podcasts)
 - [Documentation with Hahnbee](https://www.youtube.com/watch?v=QVwNqNgLRUw)
 
-[↑ Back to Top](#awesome-mintlify)
+[↑ Back to Top](#learning-mintlify)
 
 ## Community Talks
 
-> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
+> Want to contribute? learning! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 - [Create documentation for developer tools with Mintlify](https://www.youtube.com/watch?v=hFlZJzY2HNM) by [Jamie Barton](https://www.linkedin.com/in/notrab/)
 
-[↑ Back to Top](#awesome-mintlify)
+[↑ Back to Top](#learning-mintlify)
 
 ## Blog Posts
 
@@ -103,16 +103,16 @@
 - [Design matters: Mintlify's dashboard glow-up](https://mintlify.com/blog/design-matters)
 - [How Stripe creates the best documentation in the industry](https://go.mintlify.com/blog/stripe-docs)
 
-[↑ Back to Top](#awesome-mintlify)
+[↑ Back to Top](#learning-mintlify)
 
 ## Community Blog Posts
 
-> Want to contribute? Awesome! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
+> Want to contribute? learning! See here: [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 - [Improving Loops' API docs](https://loops.so/docs/guides/how-we-work-documentation) by [Dan Rowden](https://x.com/dr)
 - [Keeping up with Mintlify's AI Chat](https://dev.to/danielsgriffin/keeping-up-with-mintlifys-ai-chat-5a0m) by [Daniel Griffin](https://x.com/danielsgriffin)
 
-[↑ Back to Top](#awesome-mintlify)
+[↑ Back to Top](#learning-mintlify)
 
 ## Launch Weeks
 
